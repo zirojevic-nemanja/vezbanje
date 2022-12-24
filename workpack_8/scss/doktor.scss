@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    p{
+        text-align: center;
+        color: blue;
+    }
+    div{
+        margin-inline: auto;
+
+        form{
+            border: 1px solid rgb(103, 103, 153);
+            background-color: rgb(207, 207, 240);
+            border-radius: 5px;
+            margin-inline: auto;
+
+
+        }
+        
+    }
+}
